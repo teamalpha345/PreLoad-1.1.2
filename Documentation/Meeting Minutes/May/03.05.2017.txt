@@ -1,0 +1,26 @@
+PreLoad Meeting - 03 May 2017, 2.00pm
+Lab E, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+
+Absent:
+-Oliver Westenra (big night last night)
+
+Agenda:
+-Get working code and UI interacting correctly
+
+Busness:
+-Hugo to bug test calculator/scrapeper
+-Fergus to continue with UI
+-Oliver to continue with logo
+
+Next Meeting:
+10th May
+
+Meeting Adjourned:
+2.35pm
+
+
+

@@ -1,0 +1,22 @@
+PreLoad Meeting - 08 March 2017, 2.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-To discuss implementation of PreLoad
+-To discuss app store investment
+
+Busness:
+-Hugo to explore swift wrappers for C++ code
+-Oliver to begin writing 1st deliverable report
+-Fergus to practice with Xcode
+
+Next Meeting:
+-15th March, 2.00pm, Lab B, Owheo Building
+
+Meeting Adjourned:
+-3.12pm

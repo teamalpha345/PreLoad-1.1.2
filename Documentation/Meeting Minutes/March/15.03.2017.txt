@@ -1,0 +1,25 @@
+PreLoad Meeting - 15 March 2017, 2.00pm
+Lab E, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-Bug testing Hugos C++ code
+-Update on report
+-Discuss User Interface
+
+Busness:
+-Hugo to explore swift wrappers
+-Hugo to fix C++ bugs (inproper input etc.)
+-Oliver to continue working on report
+-Fergus to create userinterface mockups for report
+
+
+Next Meeting:
+-22nd March, 2.00pm, Owheo Building
+
+Meeting Adjourned:
+-3.00pm

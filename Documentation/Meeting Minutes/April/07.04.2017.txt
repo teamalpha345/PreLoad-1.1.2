@@ -1,0 +1,24 @@
+PreLoad Meeting - 7 April 2017, 11.00am
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Oliver Westenra
+-Hugo Ayre
+
+Agenda:
+-Chat about holidays
+-Play with working app
+-Figure out how to use GitHub
+
+Busness:
+-Oliver to continue with report
+-Hugo to look into webscrapping in C (not just translating from Python to C)
+-Fergus to create test files for program
+
+Next Meeting:
+12th April, 2.00pm
+
+Meeting Adjourned:
+12.30pm
+

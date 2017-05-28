@@ -1,0 +1,22 @@
+PreLoad Meeting - 29 March 2017, 3.00pm
+Lab F, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Oliver Westenra
+-Hugo Ayre
+
+Agenda:
+-Update from gantt chart - we should be started on our testing - we aren't
+-Review report
+
+Busness:
+-Hugo and Fergus to combine UI and backend code
+-Oliver to add desciption of functionality to report
+
+Next Meeting:
+-7th April, 11.00am
+
+Meeting Adjourned:
+-4.05pm
+
