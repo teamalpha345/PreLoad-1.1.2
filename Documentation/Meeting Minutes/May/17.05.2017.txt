@@ -1,0 +1,25 @@
+PreLoad Meeting - 17 May 2017, 2.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-Review and bug test calculator
+-Discuss documentation stratergies
+
+Busness:
+-Hugo to continue bug fixes
+-Fergus and Oliver to continue Documentation
+
+Next Meeting:
+-24th May
+
+Meeting Adjourned:
+2.50pm
+
+
+
+

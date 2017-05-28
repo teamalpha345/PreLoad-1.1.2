@@ -1,0 +1,24 @@
+PreLoad Meeting - 10 May 2017, 2.00pm
+Lab E, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-Review and bug test running calculator
+
+Busness:
+-Hugo to fix floating point bug
+-Fergus to begin internat documentation
+-Oliver to begin user manuals
+
+Next Meeting:
+-17th May
+
+Meeting Adjourned:
+-3.10pm
+
+
+

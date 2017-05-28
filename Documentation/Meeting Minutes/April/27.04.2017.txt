@@ -1,0 +1,25 @@
+PreLoad Meeting - 27 April 2017, 2.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Oliver Westenra
+-Hugo Ayre
+
+Agenda:
+-Chat about our holidays
+-Combine UI and backend code
+
+Busness:
+-Fergus to look into swift object interactability
+-Hugo to create C scrapping program
+-Oliver to design App logo
+
+Next Meeting:
+-3rd May
+
+Meeting Adjourned:
+2.45pm
+
+
+

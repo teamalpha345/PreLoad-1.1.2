@@ -1,0 +1,22 @@
+PreLoad Meeting - 01 March 2017, 2.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-To create a plan of action for the development of PreLoad
+-To discuss functionality
+
+Busness:
+-Oliver to create Gantt chart of expected time usage
+-Hugo to develop a rudementary program to see if our idea is viable
+-Fergus to research submitting app to app store
+
+Next Meeting:
+-8th March 2017, 2.00pm, Lab B, Owheo Building
+
+Meeting Adjourned:
+2.45pm

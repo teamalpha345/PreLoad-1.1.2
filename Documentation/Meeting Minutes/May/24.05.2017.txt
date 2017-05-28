@@ -1,0 +1,28 @@
+PreLoad Meeting - 24 May 2017, 2.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Fergus Farrell
+-Hugo Ayre
+-Oliver Westenra
+
+Agenda:
+-Incorpurate webscrapping data in app
+-Refine UI
+-Review Documentation
+-Discuss future server inclusion
+
+Busness:
+-Hugo to add webscrapping program to App
+-Oliver to review Github code/documentation
+-Fergus to write up/publish meeting minutes
+
+Next Meeting:
+-Unsure, will be concentrating on other exams/internals
+
+Meeting Adjourned:
+-3.45pm
+
+
+
+
