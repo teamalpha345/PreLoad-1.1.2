@@ -1,0 +1,23 @@
+PreLoad Meeting - 25 August 2017, 2.00pm
+Lab B - Owheo Building
+
+Members Present:
+-Oliver Westenra
+-Hugo Ayre
+
+Absent:
+-Fergus Farrell (away kayaking)
+
+Agenda:
+-Review webscraping
+-Review Bug fix
+
+Business:
+-Oliver to get flat using app (increase bug testing base)
+-Hugo to fix webscrape array
+
+Next Meeting:
+1st September
+
+Meeting Adjourned:
+3.00pm

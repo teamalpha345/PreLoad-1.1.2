@@ -1,0 +1,21 @@
+PreLoad Meeting - 1 September 2017, 11.00am
+Lab B - Owheo Building
+
+Members Present:
+-Oliver Westenra
+-Hugo Ayre
+-Fergus Farrell
+
+Agenda:
+-Discuss deliverable 4
+
+Business:
+-Hugo to implement webscrape
+-Fergus to change UI
+-Oliver to write up new documentation
+
+Next Meeting:
+11th September
+
+Meeting Adjourned:
+11.45am

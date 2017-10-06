@@ -1,0 +1,21 @@
+PreLoad Meeting - 21 July 2017, 11.00am
+Lab E, Owheo Building
+
+Members Present:
+-Hugo Ayre
+-Oliver Westenra
+-Fergus Farrell
+
+Agenda:
+-Discuss sig. fig. bug
+-Review deliverable
+
+Business:
+-Hugo to continue web scraping program'
+-Fergus to fix sig. fig. bug
+
+Next Meeting:
+28th July
+
+Meeting Adjourned:
+12.00noon

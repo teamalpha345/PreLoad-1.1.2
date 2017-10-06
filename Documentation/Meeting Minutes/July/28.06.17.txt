@@ -1,0 +1,19 @@
+PreLoad Meeting - 7 August 2017, 1.00pm
+Lab B, Owheo Building
+
+Members Present:
+-Oliver Westenra
+-Fergus Farrell
+-Hugo Mc
+
+Agenda:
+-Review sig fig bug fix
+
+Business:
+-Discuss deliverable 4 + server implementation
+
+Next Meeting:
+14th August
+
+Meeting Adjourned:
+2.00pm

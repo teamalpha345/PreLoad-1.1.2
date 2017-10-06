@@ -1,0 +1,21 @@
+PreLoad Meeting - 11 September 2017, 12.00 noon
+Lab E - Owheo Building
+
+Members Present:
+-Oliver Westenra
+-Hugo Ayre
+-Fergus Farrell
+
+Agenda:
+-Review websraping
+-Discuss Olivers flats responces
+
+Business:
+-Hugo to fix New World scrape bug (possibly using arrayList??)
+-Fergus to fix rounding errors
+
+Next Meeting:
+18th September
+
+Meeting Adjourned:
+1.00pm

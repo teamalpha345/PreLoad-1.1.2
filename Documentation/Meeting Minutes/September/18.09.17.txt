@@ -1,0 +1,21 @@
+PreLoad Meeting - 18 September 2017, 10.00am
+Lab B - Owheo Building
+
+Members Present:
+-Oliver Westenra
+-Hugo Ayre
+-Fergus Farrell
+
+Agenda:
+-Discuss deliverable 4
+-Exam chat??
+
+Business:
+-Hugo finish webscraping and merge
+-Fergus/Oliver to edit documentation
+
+Next Meeting:
+27th September
+
+Meeting Adjourned:
+10.40am

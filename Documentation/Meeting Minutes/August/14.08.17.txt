@@ -1,0 +1,22 @@
+PreLoad Meeting - 14 August 2017, 3.00pm
+Hugos Flat
+
+Members Present:
+-Oliver Westenra
+-Fergus Farrell
+-Hugo Ayre
+
+Agenda:
+-Discuss server effectiveness
+-Review web scraping 
+
+Business:
+-Oliver to finish document edit
+-Hugo to fix close bug
+-Fergus to edit UI
+
+Next Meeting:
+21st August
+
+Meeting Adjourned:
+3.30pm
