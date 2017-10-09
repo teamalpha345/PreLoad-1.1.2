@@ -1,0 +1,6 @@
+framework module Pods_preload {
+  umbrella header "Pods-preload-umbrella.h"
+
+  export *
+  module * { export * }
+}

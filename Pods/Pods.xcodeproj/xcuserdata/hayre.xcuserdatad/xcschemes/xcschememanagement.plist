@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-preload.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-preloadTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-preloadUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SwiftSoup.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>469DD46F91A1AD681BADC2DC60B25090</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>62A365E0A81F3FB3481DC5885F7194A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6CEB57646E4A46D226544D61D2083FC3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0672685A79C56F8BC1B50924D759409</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
